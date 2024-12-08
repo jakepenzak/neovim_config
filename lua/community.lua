@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.completion.tabnine-nvim" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "atrocommunity.markdown-and-latex.markdown-preview-nvim" },
   {
     {
       "quarto-dev/quarto-nvim",
