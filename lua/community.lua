@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.completion.avante-nvim" },
   { import = "astrocommunity.completion.tabnine-nvim" },
   { import = "astrocommunity.code-runner.molten-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
 --  { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   {
