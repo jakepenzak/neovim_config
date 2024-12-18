@@ -7,6 +7,7 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.completion.avante-nvim" },
   { import = "astrocommunity.completion.tabnine-nvim" },
   { import = "astrocommunity.code-runner.molten-nvim" },
 --  { import = "astrocommunity.workflow.hardtime-nvim" },
