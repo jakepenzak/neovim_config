@@ -9,7 +9,7 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.editing-support.copilotchat-nvim" },
-  { import = "astrocommunity.code-runner.molten-nvim" },
+  --  { import = "astrocommunity.code-runner.molten-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   --  { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
