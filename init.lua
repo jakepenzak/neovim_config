@@ -17,3 +17,11 @@ end
 
 require "lazy_setup"
 require "polish"
+
+vim.schedule(function()
+  local notify = vim.notify
+  vim.notify = function(msg, level, opts)
+    if msg:match "docker%-language%-server" then return end
+    notify(msg, level, opts)
+  end
+end)
